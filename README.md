@@ -42,5 +42,43 @@ Each of these represents less than 2% missing data, which is typically acceptabl
   There are 74 duplicate rows in the dataset, which have been removed.
 ### Data Visualization
 A bar plot is used to visualize the distribution of the coupon column, while a histogram illustrates the distribution of the temperature column.
+
 ![plot1](figures/plot1.png)
+
+
+
+
 ![plot2](figures/plot2.png)
+
+### Data Summarization
+- 57% of total observations indicate that the coupon was accepted.
+- Investigating the Bar Coupons:
+  - 41% of bar coupons were accepted.
+  - Drivers who go to a bar 3 or fewer times per month had a 37% acceptance rate.
+  - Drivers who go to a bar more than 3 times per month had a significantly higher acceptance rate of 76%.
+  - Among drivers who go to bars more than once a month and are over the age of 25, the acceptance rate is 70%.
+  - Drivers who go to bars more than once a month, had passengers other than kids, and work in occupations outside of farming, fishing, or forestry, showed an acceptance rate of 71%.
+  - Drivers who go to bars more than once a month, had passengers who were not kids, and were not widowed, also showed a 71% acceptance rate.
+  -  For those who go to bars more than once a month and are under the age of 30, the rate increases to 73% 
+  -  Drivers who go to cheap restaurants more than 4 times per month and have an income below $50K had a 60% acceptance rate for coupons.
+
+    ### Hypothesis Testing
+  Hypothesis Statement
+Drivers who frequently visit bars and meet specific demographic or situational criteria are significantly more likely to accept bar coupons than those who do not
+Supporting Observations for the Hypothesis
+Drivers who go to bars more than 3 times per month have a 76% acceptance rate, compared to 37% for those who go less frequently.
+
+Acceptance rates remain above 70% for frequent bar-goers who are:
+
+Over age 25
+
+Under age 30
+
+Accompanied by passengers (excluding kids)
+
+Not widowed
+
+Working outside of farming, fishing, or forestry
+
+These factors suggest that bar coupon acceptance is driven by lifestyle patterns and social context, such as age, companion type, and occupation.
+
