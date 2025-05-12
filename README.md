@@ -41,4 +41,6 @@ Each of these represents less than 2% missing data, which is typically acceptabl
 - **Duplicate Data:**
   There are 74 duplicate rows in the dataset, which have been removed.
 ### Data Visualization
-
+A bar plot is used to visualize the distribution of the coupon column, while a histogram illustrates the distribution of the temperature column.
+![plot1](figures/plot1.png)
+![plot2](figures/plot2.png)
