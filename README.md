@@ -63,22 +63,25 @@ A bar plot is used to visualize the distribution of the coupon column, while a h
   -  Drivers who go to cheap restaurants more than 4 times per month and have an income below $50K had a 60% acceptance rate for coupons.
 
     ### Hypothesis Testing
-  Hypothesis Statement
-Drivers who frequently visit bars and meet specific demographic or situational criteria are significantly more likely to accept bar coupons than those who do not
-Supporting Observations for the Hypothesis
-Drivers who go to bars more than 3 times per month have a 76% acceptance rate, compared to 37% for those who go less frequently.
+- **Hypothesis Statement:**
+Drivers who frequently visit bars and meet specific demographic or situational criteria are significantly more likely to accept bar coupons than those who do not.
+- **Supporting Observations for the Hypothesis:**
+Drivers who go to bars more than 3 times per month have a 76% acceptance rate, compared to 37% for those who go less frequently. Acceptance rates remain above 70% for frequent bar-goers who are:
 
-Acceptance rates remain above 70% for frequent bar-goers who are:
+  - Over age 25
 
-Over age 25
+  - Under age 30
 
-Under age 30
+  - Accompanied by passengers (excluding kids)
 
-Accompanied by passengers (excluding kids)
+  - Not widowed
 
-Not widowed
-
-Working outside of farming, fishing, or forestry
+  - Working outside of farming, fishing, or forestry
 
 These factors suggest that bar coupon acceptance is driven by lifestyle patterns and social context, such as age, companion type, and occupation.
+
+### Independent Investigation
+We examine the Carry out & Take away coupon group to identify the characteristics of passengers who are more likely to accept these coupons. 
+- Investigating the Carry out & Take away Coupons:
+  - 74% of Carry out & Take away coupons were accepted.
 
