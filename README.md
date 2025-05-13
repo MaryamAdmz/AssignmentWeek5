@@ -84,5 +84,10 @@ These factors suggest that bar coupon acceptance is driven by lifestyle patterns
 We examine the Carry out & Take away coupon group to identify the characteristics of passengers who are more likely to accept these coupons. 
 - Investigating the Carry out & Take away Coupons:
   - 74% of Carry out & Take away coupons were accepted.
+  - Drivers aged 21 had the highest number of accepted 'Carry out & Take away' coupons, with over 300 recorded acceptances. This aligns with the calculated acceptance rate for this group, which is approximately 74.1%
+  - Drivers with an income of $25,000–$37,499 had the highest coupon acceptance count, with a strong acceptance rate of 77.9%.
+  - Female drivers accepted the most carryout coupons, with an acceptance rate of approximately 71.3%
+  - Single drivers showed the highest acceptance volume, with a rate of 74.6%.
+  - The Unemployed group had the highest coupon acceptance count among occupations, with a 75.4% acceptance rate.
 
 ![plot3](figures/plot3.png)
