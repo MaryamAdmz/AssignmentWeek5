@@ -85,3 +85,4 @@ We examine the Carry out & Take away coupon group to identify the characteristic
 - Investigating the Carry out & Take away Coupons:
   - 74% of Carry out & Take away coupons were accepted.
 
+![plot3](figures/plot3.png)
