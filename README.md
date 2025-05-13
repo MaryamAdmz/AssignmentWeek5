@@ -1,7 +1,7 @@
 # Coupon Acceptance Analysis
 This project explores factors that influence whether drivers accept or reject driving coupons. Using a dataset from the UCI Machine Learning Repository, we analyze user demographics, driving context, and coupon characteristics to uncover behavioral trends and patterns in coupon redemption.
 To identify and visualize the key differences between individuals who accept a driving coupon versus those who do not, using statistical analysis and Python-based data visualization.
-# [Link to Jupyter notebook](prompt.ipynb)
+### [Link to Jupyter notebook](prompt.ipynb)
 ## Exploratory Data Analysis
 ### Understand the Data and Data Collection
 This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk.
